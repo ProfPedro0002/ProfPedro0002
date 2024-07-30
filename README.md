@@ -1,4 +1,4 @@
-## Hi there 💙
+## Hi there 💚
 
 
 Meu nome é Pedro Amantêa 👨‍🏫
@@ -9,5 +9,5 @@ Meu nome é Pedro Amantêa 👨‍🏫
   ## Para entrar em contato 📫
 - Email: **Pedroamantea@prof.educacao.sp.gov.br**
 
-- ![](https://media.tenor.com/kLN0OuTw2SwAAAAi/cavalinho-palmeiras.gif)
+ ![](https://media.tenor.com/kLN0OuTw2SwAAAAi/cavalinho-palmeiras.gif)
 
