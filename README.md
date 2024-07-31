@@ -1,7 +1,7 @@
 ## Hi there 💚
 
 
-Meu nome é Pedro Amantêa 👨‍🏫
+Meu nome é **Pedro Amantêa** 👨‍🏫
 
 - Sou professor e estou trabalhando com a plataforma **[ALURA](https://www.alura.com.br)**
 - Utilizo esse espaço para organizar meus projetos.
